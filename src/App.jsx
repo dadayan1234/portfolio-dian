@@ -78,7 +78,7 @@ const PortfolioWebsite = () => {
     },
     {
       icon: <Home className="w-8 h-8" />,
-      title: "IoT Monitoring Kos/Kafe",
+      title: "IoT Monitoring Smart Building/Farm",
       price: "Rp 1.5jt",
       description: "Sistem monitoring real-time untuk bisnis Anda",
       features: [
