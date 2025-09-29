@@ -357,7 +357,7 @@ const PortfolioWebsite = () => {
                     
                     <div className="grid grid-cols-2 gap-4">
                       <div className="bg-blue-50 rounded-xl p-4">
-                        <p className="text-3xl font-bold text-blue-600">50+</p>
+                        <p className="text-3xl font-bold text-blue-600">10+</p>
                         <p className="text-sm text-gray-600">Project Completed</p>
                       </div>
                       <div className="bg-green-50 rounded-xl p-4">
